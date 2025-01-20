@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="A0rpR_DRJGKXywJ7MdEI" name="Page-1">
+        <mxGraphModel dx="1033" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="ODS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#33FF33;strokeColor=#2D7600;fillStyle=dashed;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="440" width="330" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="商&lt;br&gt;品&lt;br&gt;域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="270" width="50" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="用&lt;br&gt;户&lt;br&gt;域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="270" width="50" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="交&lt;br&gt;易&lt;br&gt;域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="270" width="50" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="DWD" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=dashed;fillColor=#60a917;fontColor=#33FF33;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="360" width="330" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="DWS" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=dashed;fillColor=#60a917;fontColor=#33FF33;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="280" width="260" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="ADS" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=dashed;fillColor=#60a917;fontColor=#33FF33;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="200" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="DM" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=dashed;fillColor=#60a917;fontColor=#33FF33;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="200" width="160" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
